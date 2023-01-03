@@ -19,6 +19,8 @@ public:
 private slots:
     void on_btn_novo_clicked();
 
+    void on_btn_cancelar_clicked();
+
 private:
     Ui::fm_contatos *ui;
 };

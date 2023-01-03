@@ -40,3 +40,9 @@ void fm_contatos::on_btn_novo_clicked()
         qDebug() << "erro ";
     }
 }
+
+void fm_contatos::on_btn_cancelar_clicked()
+{
+    this->close();
+}
+

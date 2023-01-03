@@ -18,6 +18,8 @@ public:
 private slots:
     void on_btn_gravar_clicked();
 
+    void on_btn_cancelar_clicked();
+
 private:
     Ui::fm_editar *ui;
 };

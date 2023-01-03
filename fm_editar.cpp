@@ -44,3 +44,9 @@ void fm_editar::on_btn_gravar_clicked()
     }
 }
 
+
+void fm_editar::on_btn_cancelar_clicked()
+{
+    this->close();
+}
+

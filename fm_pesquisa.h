@@ -20,6 +20,8 @@ private slots:
 
     void on_btn_editar_clicked();
 
+    void on_btn_pesquisar_clicked();
+
 private:
     Ui::fm_pesquisa *ui;
 };

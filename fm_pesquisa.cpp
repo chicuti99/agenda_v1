@@ -84,3 +84,9 @@ void fm_pesquisa::on_btn_editar_clicked()
 
 }
 
+
+void fm_pesquisa::on_btn_pesquisar_clicked()
+{
+
+}
+
